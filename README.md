@@ -1,5 +1,5 @@
 # Applied_Economic_Study_Materials
-For anyone who visit my repository, feel free to download and spread those materials.  
+For anyone who visit my repository, feel free to download and spread those materials. Copyright belongs to publishers and writers. 
 
 Material list  
 
