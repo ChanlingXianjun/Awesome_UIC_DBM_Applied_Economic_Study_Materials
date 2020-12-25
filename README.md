@@ -4,3 +4,5 @@ For anyone who visit my repository, feel free to download and spread those mater
 Material list  
 
 AE: applied econometrics
+
+BRM: businese research method, also my group project "price index"
