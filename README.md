@@ -10,3 +10,5 @@ BRM: businese research method, also my group project "price index"
 FM: financal management, from time value to capital financing and operating, provide basic concepts for further study.
 
 OB: organizational behavior, 17e (Robbins), mostly foucus on campany OB
+
+Game: game theory
