@@ -15,3 +15,4 @@ recommend online course:中南财经政法大学 罗宾斯 组织行为学 王�
 Game: game theory, recommed online course: Game Theory Yale: https://www.bilibili.com/video/BV1Kt411h7Ep?from=search&seid=7767066296389950125
 
 Linear Algebra and Calculus and Statistic: I can only suggest you follow your instructors' advice and search resouse from YouTube.
+https://github.com/mitmath/1806 MIT introduction to LA
