@@ -5,6 +5,11 @@
 二更
 经济学并非商学，作为最为追求数理精细和逻辑通达的社会科学学科，各位在入门本科阶段一定要打下牢固的计量基础与逻辑基础，这里推荐选修学习博弈论，critical thinking，同时务必学好微积分线性代数概率论统计，在此基础上可继续选修建模课，参加建模竞赛，掌握至少一门计算机语言，比如R（最好结合统计课学习），matlab（结合线性代数课学习）python，SPSS（这个最为基础，在business research method课就可以接触），这样进一步学习计量数量，或者金融都有基础，转商科也能取得很大的优势。总之，要把自己当作理科生（前苏联的学制了，认清社会科学日益数理化的现实吧）和计算机数据科学统计的同学多多交流。
 
+三更
+列一个书单，作为数学的入门书籍。
+An Introduction to Mathematical Statistics and Its Applications (2-ed)
+
+
 Copyright claim: For anyone who visit my repository, feel free to download and spread those materials. Copyright belongs to publishers and writers. 
 
 Material list  
@@ -22,3 +27,5 @@ Game: game theory, recommed online course: Game Theory Yale: https://www.bilibil
 
 Linear Algebra and Calculus and Statistic: I can only suggest you follow your instructors' advice and search resouse from YouTube.
 https://github.com/mitmath/1806 MIT introduction to LA
+
+
