@@ -2,7 +2,10 @@
 写在最前面的一点感受：如果有需要下载这个项目的同学，应该是我们系的学弟学妹。这里的资料都是我自己收集整理的，在选课之前可以提前下载看看课程内容设置，选课之后也可以白嫖学习资料。本着互联网开源的精神，免费分享，请务必尊重书籍课本作者版权，老师的ppt和syllable版权隐私，严禁倒卖原本免费开源的学习资料，由此引发的一切后果，由自己负责。此外，GitHub上有许多其他学校的开源资料库，也希望其他系的同学联系我，共同整理一个属于我们学校的开源资料库，大家也不用微信群QQ群5块倒卖资料，电子版的课本也不比几百块的纸质书差。
 如有版本变更，如教材更换更新，课程设置变化，请联系chanlingxianjun@gmail.com
 
-For anyone who visit my repository, feel free to download and spread those materials. Copyright belongs to publishers and writers. 
+二更
+经济学并非商学，作为最为追求数理精细和逻辑通达的社会科学学科，各位在入门本科阶段一定要打下牢固的计量基础与逻辑基础，这里推荐选修学习博弈论，critical thinking，同时务必学好微积分线性代数概率论统计，在此基础上可继续选修建模课，参加建模竞赛，掌握至少一门计算机语言，比如R（最好结合统计课学习），matlab（结合线性代数课学习）python，SPSS（这个最为基础，在business research method课就可以接触），这样进一步学习计量数量，或者金融都有基础，转商科也能取得很大的优势。总之，要把自己当作理科生（前苏联的学制了，认清社会科学日益数理化的现实吧）和计算机数据科学统计的同学多多交流。
+
+Copyright claim: For anyone who visit my repository, feel free to download and spread those materials. Copyright belongs to publishers and writers. 
 
 Material list  
 
