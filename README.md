@@ -7,7 +7,11 @@
 
 三更
 列一个书单，作为数学的入门书籍。
-An Introduction to Mathematical Statistics and Its Applications (2-ed)
+
+概率论与数量统计：An Introduction to Mathematical Statistics and Its Applications (2-ed)
+线性代数：Linear Algebra Done Right
+微积分：Calculus Stewart 
+
 
 
 Copyright claim: For anyone who visit my repository, feel free to download and spread those materials. Copyright belongs to publishers and writers. 
