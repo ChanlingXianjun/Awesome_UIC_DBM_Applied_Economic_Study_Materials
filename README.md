@@ -16,7 +16,7 @@
 
 Copyright claim: For anyone who visit my repository, feel free to download and spread those materials. Copyright belongs to publishers and writers. 
 
-Material list  
+压缩包部分的补充信息：
 
 AE: applied econometrics, foucus on OLS and time series, recommend R practice for each chapter https://github.com/liurht/ie5solutions.
 
