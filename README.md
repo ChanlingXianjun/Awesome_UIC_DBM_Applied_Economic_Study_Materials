@@ -11,8 +11,20 @@
 概率论与数量统计：An Introduction to Mathematical Statistics and Its Applications (2-ed)
 线性代数：Linear Algebra Done Right
 微积分：Calculus Stewart 
+![image]
+(https://github.com/ChanlingXianjun/Awesome_UIC_DBM_Applied_Economic_Study_Materials/blob/main/IMG/mathmap.jpg)
 
+大概这样
 
+![image]
+(https://github.com/ChanlingXianjun/Awesome_UIC_DBM_Applied_Economic_Study_Materials/blob/main/IMG/mathpower.jpg)
+
+这样
+
+![image]
+(https://github.com/ChanlingXianjun/Awesome_UIC_DBM_Applied_Economic_Study_Materials/blob/main/IMG/ppt.jpg)
+
+正所谓大道至简
 
 Copyright claim: For anyone who visit my repository, feel free to download and spread those materials. Copyright belongs to publishers and writers. 
 
