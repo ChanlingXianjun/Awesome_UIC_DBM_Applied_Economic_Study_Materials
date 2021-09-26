@@ -22,9 +22,9 @@ https://probability.xmu.edu.cn/2020/1101/c15971a419926/page.htm
     三更
 列一个书单，作为数学的入门书籍。
 
-概率论与数量统计：An Introduction to Mathematical Statistics and Its Applications (2-ed)
-线性代数：Linear Algebra Done Right
-微积分：Calculus Stewart 
+    概率论与数量统计：An Introduction to Mathematical Statistics and Its Applications (2-ed)
+    线性代数：Linear Algebra Done Right
+    微积分：Calculus Stewart 
 
 ![image](https://github.com/ChanlingXianjun/Awesome_UIC_DBM_Applied_Economic_Study_Materials/blob/main/IMG/mathmap.jpg)
 
