@@ -1,12 +1,17 @@
 # Applied_Economic_Study_Materials
 推荐看一看
 
-经济这台机器是怎样运行的　作者·：瑞·达利奥 (Ray Dalio)
+1.经济学入门小视频：经济这台机器是怎样运行的　作者·：瑞·达利奥 (Ray Dalio)
 | http://www.economicprinciples.org 
 
 
-The Basics of Business Education - What Business Students Should Study
+2.商学入门视频：The Basics of Business Education - What Business Students Should Study
 https://youtu.be/69dLyztc-As
+
+
+3.经济学作为社会科学的方向：洪永淼、汪寿阳：​数学、模型与经济思想
+https://probability.xmu.edu.cn/2020/1101/c15971a419926/page.htm
+
 
 写在最前面的一点感受：如果有需要下载这个项目的同学，应该是我们系的学弟学妹。这里的资料都是我自己收集整理的，在选课之前可以提前下载看看课程内容设置，选课之后也可以白嫖学习资料。本着互联网开源的精神，免费分享，请务必尊重书籍课本作者版权，老师的ppt和syllable版权隐私，严禁倒卖原本免费开源的学习资料，由此引发的一切后果，由自己负责。此外，GitHub上有许多其他学校的开源资料库，也希望其他系的同学联系我，共同整理一个属于我们学校的开源资料库，大家也不用微信群QQ群5块倒卖资料，电子版的课本也不比几百块的纸质书差。
 如有版本变更，如教材更换更新，课程设置变化，请联系chanlingxianjun@gmail.com
