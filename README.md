@@ -31,6 +31,8 @@ http://book.ucdrs.superlib.net/views/specific/2929/bookDetail.jsp?dxNumber=00001
 列一个书单，作为数学的入门书籍。
 
     概率论与数量统计：An Introduction to Mathematical Statistics and Its Applications (2-ed)
+                     洪永淼 概率论与统计学
+                     概率论与数理统计－－茆诗松（第二版）
     线性代数：Linear Algebra Done Right
     微积分：Calculus Stewart 
 
